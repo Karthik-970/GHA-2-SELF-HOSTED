@@ -10,4 +10,4 @@ jobs:
 
    steps:
      - name: message
-       run: echo "welcome to github actions"
+       run: echo "welcome to self-hosted github actions"
