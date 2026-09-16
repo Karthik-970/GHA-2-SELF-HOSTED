@@ -1,0 +1,13 @@
+name: first GHA-test-1
+
+on: 
+  push 
+
+jobs:
+ my-first-job:
+   runs-on: self-hosted
+
+
+   steps:
+     - name: message
+       run: echo "welcome to github actions"
