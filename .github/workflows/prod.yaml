@@ -1,4 +1,4 @@
-name: first GHA-test-1
+name: self-hosted GHA-test-2
 
 on: 
   push 
